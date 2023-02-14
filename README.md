@@ -1,2 +1,2 @@
-# quiz-app
+Small project to improve on JavaScript
  
