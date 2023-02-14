@@ -1,10 +1,10 @@
 const quizData = [
     {
-        question: "How old is Ray?",
-        a: "23",
-        b: "24",
-        c: "25",
-        d: "6",
+        question: "How many stars are in the sky?",
+        a: "24",
+        b: "6",
+        c: "100000",
+        d: "A lot",
         correct: "d",
     },
     {
@@ -16,28 +16,28 @@ const quizData = [
         correct: "c",
     },
     {
-        question: "Which camps are best?",
-        a: "Concentration Camps",
-        b: "Internment Camps",
-        c: "Coding bootcamps",
-        d: "Camping with da homies",
-        correct: "d",
-    },
-    {
-        question: "What happened in My Lai, Vietnam?",
-        a: "Earthquake",
-        b: "Mass Murder",
-        c: "Massive Earthquake",
-        d: "Typhoon",
+        question: "Which blue is best?",
+        a: "Ocean",
+        b: "Sky",
+        c: "Crayon",
+        d: "Sad vibes",
         correct: "b",
     },
     {
-        question: "What is Cantua's mascot?",
-        a: "Wolf",
-        b: "Bagder",
-        c: "Tiger",
-        d: "A lion jumping in and out of backyards",
+        question: "Which is prime?",
+        a: "0",
+        b: "1",
+        c: "4",
+        d: "Optimus",
         correct: "d",
+    },
+    {
+        question: "How many questions are left?",
+        a: "0",
+        b: "1",
+        c: "2",
+        d: "3",
+        correct: "a",
     }
 ];
 
